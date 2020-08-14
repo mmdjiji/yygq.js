@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>阴阳怪气编码</title>
+<style>
+  .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .content>textarea{
+    width: 30em;
+    height: 12em;
+    margin: 1em;
+  }
+  .content>.button{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+</style>
+<script src="yygq.min.js"></script>
+<link rel="shortcut icon" href="favicon.ico"/>
+</head>
+<body>
+  <h2 style="text-align: center;">阴阳怪气编码</h2>
+  <div class="content">
+    <textarea id="decoded_area" placeholder="这里输入要编码的文本："></textarea>
+    <div class="button">
+      <button id="btn_encode" onclick="encoded_area.value = yygq.encode(decoded_area.value);">编码 &gt;&gt;</button>
+      <button id="btn_decode" onclick="decoded_area.value = yygq.decode(encoded_area.value);">&lt;&lt; 解码</button>
+    </div><textarea id="encoded_area" placeholder="这里输入要解码的文本："></textarea>
+  </div>
+  <p style="text-align: center;">
+    阴阳怪气编码 —— 不 会 吧 ？ 就 这 ¿<br>
+    Author: JiJi, XiaoZhuo<br>
+    Inspired by moectf2020 of <a href="https://www.xdsec.org/" target="_blank">XDSEC</a><br>
+    GitHub: <a href="https://github.com/mmdjiji/yygq.js" target="_blank">https://github.com/mmdjiji/yygq.js</a><br>
+    以 <a href="https://choosealicense.com/licenses/gpl-3.0/">GPLv3.0协议</a> 开源
+  </p>
+</body>
+</html>
