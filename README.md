@@ -34,7 +34,7 @@ $ npm install -g yygq
 
 ### Clone
 ```shell
-git clone https://gitee.com/mmdjiji/yygq.js
+$ git clone https://gitee.com/mmdjiji/yygq.js
 ```
 
 ## 导入
