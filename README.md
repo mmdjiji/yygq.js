@@ -1,11 +1,11 @@
 # 阴阳怪气编码
 
-[![avatar](https://img.shields.io/badge/license-GPL_V3.0-brightgreen)](https://choosealicense.com/licenses/gpl-3.0/) [![avatar](https://img.shields.io/badge/language-JavaScript-orange)](https://www.javascript.com/)
+[![avatar](assets/license.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![avatar](assets/language.svg)](https://www.javascript.com/)
 
 ## [在线编码](https://mmdjiji.gitee.io/yygq.js/)
 
 ## 阴阳怪气？
-阴阳怪气汉语成语，拼音是 `yīn yáng guài qì` ，意思是形容态度怪癖，冷言冷语，不可捉摸。出自《北京人》。
+阴阳怪气是一个汉语成语，拼音是 `yīn yáng guài qì` ，意思是形容态度怪癖，冷言冷语，不可捉摸。出自《北京人》。
 
 于是就有了阴阳怪气编码， `例子.` 的编码如下:
 ```
