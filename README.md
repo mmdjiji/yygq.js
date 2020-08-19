@@ -1,6 +1,6 @@
 # 阴阳怪气编码
 
-[![avatar](assets/license.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![avatar](assets/language.svg)](https://www.javascript.com/)
+[![avatar](https://gitee.com/mmdjiji/yygq.js/raw/master/assets/license.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![avatar](https://gitee.com/mmdjiji/yygq.js/raw/master/assets/language.svg)](https://www.javascript.com/)
 
 ## [在线编码](https://mmdjiji.gitee.io/yygq.js/)
 
