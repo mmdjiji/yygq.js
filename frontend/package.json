@@ -1,0 +1,36 @@
+{
+  "name": "yygq.js-frontend",
+  "version": "1.0.0",
+  "description": "Frontend of yygq.js",
+  "dependencies": {
+    "vue": "^3.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.1",
+    "@vue/compiler-sfc": "^3.2.6",
+    "naive-ui": "^2.18.1",
+    "vfonts": "^0.1.0",
+    "vite": "^2.5.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "npm run dev",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmdjiji/yygq.js.git"
+  },
+  "keywords": [
+    "Vue3",
+    "NaiveUI",
+    "Vite"
+  ],
+  "author": "JiJi",
+  "license": "GPLv3.0",
+  "bugs": {
+    "url": "https://github.com/mmdjiji/yygq.js/issues"
+  },
+  "homepage": "https://github.com/mmdjiji/yygq.js#readme"
+}
