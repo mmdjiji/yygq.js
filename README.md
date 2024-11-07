@@ -1,10 +1,6 @@
 # 阴阳怪气编码
 
-[![License](https://img.shields.io/badge/License-GPLv3.0-blue)](https://choosealicense.com/licenses/gpl-3.0/)
-[![Language](https://img.shields.io/badge/Language-JavaScript-yellowgreen)](https://www.javascript.com/)
-[![Start Online](https://img.shields.io/badge/Start-Online-brightgreen)](https://jiji.pro/yygq.js/)
-
-## [在线编码](https://jiji.pro/yygq.js/)
+## [在线使用](https://std.ac/yygq.js/)
 
 ## 阴阳怪气？
 阴阳怪气是一个汉语成语，拼音是 `yīn yáng guài qì` ，意思是形容态度怪癖，冷言冷语，不可捉摸。出自《北京人》。
@@ -47,16 +43,11 @@ $ git clone https://github.com/mmdjiji/yygq.js
 ```
 也可以使用 CDN 接入:
 ```html
-<script src="https://jiji.pro/yygq.js/yygq.min.js"></script>
+<script src="https://std.ac/yygq.js/yygq.min.js"></script>
 ```
 ### Node.js
 ```js
-const yygq = require('yygq')
-```
-
-如果你想使用 ES6 Module 的 `import` 来使用，可使用:
-```js
-import { yygq } from './yygq.import.js'
+import yygq from 'yygq';
 ```
 
 ## 使用

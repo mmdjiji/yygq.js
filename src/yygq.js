@@ -46,3 +46,4 @@ const yygq = (() => {
 if (typeof(module) !== 'undefined' && module != null) {
   module.exports = yygq;
 }
+export default yygq;
