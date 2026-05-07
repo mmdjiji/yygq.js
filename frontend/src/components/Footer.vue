@@ -11,9 +11,14 @@
     <a href="https://mmdjiji.com" target="_blank">
       Author's Blog
     </a>
-    |
-    Inspired By MoeCTF 2020 of 
-    <a href="https://www.xdsec.org/" target="_blank">
+  </p>
+  <p>
+    Inspired By
+    <a href="https://github.com/XDSEC/miniLCTF_2020" target="_blank">
+      MoeCTF 2020
+    </a>
+    of
+    <a href="https://github.com/xdsec" target="_blank">
       XDSEC
     </a>
   </p>
