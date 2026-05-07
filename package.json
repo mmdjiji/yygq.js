@@ -1,12 +1,15 @@
 {
   "name": "yygq",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "阴阳怪气编码",
   "main": "yygq.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmdjiji/yygq.js.git"
+    "url": "https://github.com/mmdjiji/yygq.js.git"
+  },
+  "publishConfig": {
+    "provenance": true
   },
   "keywords": [
     "阴阳怪气",
@@ -15,7 +18,7 @@
     "就这¿"
   ],
   "author": "JiJi, XiaoZhuo",
-  "license": "GPLv3.0",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/mmdjiji/yygq.js/issues"
   },
