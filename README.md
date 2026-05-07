@@ -20,7 +20,7 @@
 
 ## 安装
 
-### 下载到指定包中
+### 局部安装
 ```shell
 $ npm install --save yygq
 ```
@@ -30,24 +30,16 @@ $ npm install --save yygq
 $ npm install -g yygq
 ```
 
-### Clone
-```shell
-$ git clone https://github.com/mmdjiji/yygq.js
-```
-
 ## 导入
 
-### 浏览器
-```html
-<script src="yygq.min.js"></script>
-```
-也可以使用 CDN 接入:
-```html
-<script src="https://std.ac/yygq.js/yygq.min.js"></script>
-```
 ### Node.js
 ```js
 import yygq from 'yygq';
+```
+
+### HTML
+```html
+<script src="https://std.ac/yygq.js/yygq.min.js"></script>
 ```
 
 ## 使用
@@ -62,4 +54,4 @@ yygq.decode('就 这 ¿ 就 这 ¿ 不 会 吧 ？ 就 这 ¿ 就 这 ¿ 不 会
 ```
 
 ## 开源
-本项目以 [GPLv3.0协议](https://choosealicense.com/licenses/gpl-3.0/) 开源。
+本项目以 [GPL-3.0协议](https://choosealicense.com/licenses/gpl-3.0/) 开源。
