@@ -1,6 +1,6 @@
 {
   "name": "yygq",
-  "version": "1.2.0",
+  "version": "1.2.6",
   "description": "阴阳怪气编码",
   "main": "yygq.js",
   "type": "module",
