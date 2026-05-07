@@ -36,7 +36,7 @@ import { NButton, NInput, NSpace } from 'naive-ui';
 
 <script>
 import { defineComponent, ref } from 'vue';
-import yygq from '../../src/yygq.min.js';
+import yygq from '../../../src/yygq.min.js';
 
 export default defineComponent({
   data() {
