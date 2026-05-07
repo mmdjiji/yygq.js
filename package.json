@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmdjiji/yygq"
+    "url": "https://github.com/mmdjiji/yygq.js"
   },
   "publishConfig": {
     "provenance": true
@@ -20,7 +20,7 @@
   "author": "JiJi, XiaoZhuo",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/mmdjiji/yygq/issues"
+    "url": "https://github.com/mmdjiji/yygq.js/issues"
   },
-  "homepage": "https://github.com/mmdjiji/yygq#readme"
+  "homepage": "https://github.com/mmdjiji/yygq.js#readme"
 }
